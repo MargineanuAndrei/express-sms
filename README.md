@@ -1,8 +1,8 @@
 # Express SMS App
 
-To run this app you need to have register to https://www.nexmo.com.
+To run this app you need to register on this website: https://www.nexmo.com (Account is free).
 
-And to create .env file , .env-example will help you .
+And create .env file , .env-example will help you .
 
 npm install
 
